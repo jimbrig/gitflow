@@ -82,7 +82,7 @@ Keep your branch strategy **simple**:
 - [Gitkraken: Git Flow - What is the best Git Workflow? - Learn Git](https://www.gitkraken.com/learn/git/git-flow) ⭐
 - [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Read Git Flow - Leanpub](https://leanpub.com/git-flow/read#:~:text= How Git Flow Works  1 Historical,(or a predetermined release date is... More )
+- [Read Git Flow - Leanpub](https://leanpub.com/git-flow/read) - How Git Flow Works
 
 #### Github Repo
 
