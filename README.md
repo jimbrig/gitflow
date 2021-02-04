@@ -11,7 +11,9 @@ Keep your branch strategy **simple**:
 
 ***
 
-*A solid alternative strategy to to **git-flow** is the [cherry-picking workflow used by Microsoft](cherry-picking workflow used by Microsoft)*
+*A solid alternative strategy to to git-flow is the [cherry-picking workflow used by Microsoft](https://devblogs.microsoft.com/devops/improving-azure-devops-cherry-picking/)*
+
+I find the best docs and ideas for implementing git productive, collaborative workflows with git come from Microsoft, GitKraken, and Atlassian.
 
 ### Resources:
 
