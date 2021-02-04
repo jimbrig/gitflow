@@ -2,6 +2,34 @@
 
 ![](https://image.slidesharecdn.com/gitflow-160421170910/95/git-flow-7-638.jpg?cb=1461258649)
 
+***
+
+Keep your branch strategy **simple**:
+
+1. Use feature branches and merge into develop.
+2. Keep a high quality, up-to-date main branch for production and only merge into main from develop. 
+
+***
+
+*Alternatively to git-flow a nice option is the [cherry-picking workflow used by Microsoft](cherry-picking workflow used by Microsoft)*
+
+### Resources:
+
+- [Improving Azure DevOps cherry-picking | Azure DevOps Blog (microsoft.com)](https://devblogs.microsoft.com/devops/improving-azure-devops-cherry-picking/) ⭐
+- [Microsoft Docs: Git branching guidance - Azure Repos](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops) ⭐
+- [GitFlow - Get Git Into Your Workflow](https://www.gitflow.com/)
+- [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) ⭐
+- [Gitkraken: Git Flow - What is the best Git Workflow? - Learn Git](https://www.gitkraken.com/learn/git/git-flow) ⭐
+- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Read Git Flow - Leanpub](https://leanpub.com/git-flow/read) - How Git Flow Works
+
+#### Github Repo
+
+- [nvie/gitflow: Git extensions to provide high-level repository operations for Vincent Driessen's branching model](https://github.com/nvie/gitflow)
+
+***
+
 ### The Flow
 1. Branch from staging
 2. Rebase staging
@@ -66,27 +94,6 @@ git push origin name-of-branch --force
 ```
 
 ***
-
-Keep your branch strategy **simple**:
-
-1. Use feature branches and merge into develop.
-2. Keep a high quality, up-to-date main branch for production and only merge into main from develop. 
-
-***
-
-### Resources:
-
-- [Microsoft Docs: Git branching guidance - Azure Repos](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops) ⭐
-- [GitFlow - Get Git Into Your Workflow](https://www.gitflow.com/)
-- [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) ⭐
-- [Gitkraken: Git Flow - What is the best Git Workflow? - Learn Git](https://www.gitkraken.com/learn/git/git-flow) ⭐
-- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Read Git Flow - Leanpub](https://leanpub.com/git-flow/read) - How Git Flow Works
-
-#### Github Repo
-
-- [nvie/gitflow: Git extensions to provide high-level repository operations for Vincent Driessen's branching model](https://github.com/nvie/gitflow)
 
 #### Windows Installation
 
