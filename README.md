@@ -11,7 +11,7 @@ Keep your branch strategy **simple**:
 
 ***
 
-*Alternatively to git-flow a nice option is the [cherry-picking workflow used by Microsoft](cherry-picking workflow used by Microsoft)*
+*A solid alternative strategy to to **git-flow** is the [cherry-picking workflow used by Microsoft](cherry-picking workflow used by Microsoft)*
 
 ### Resources:
 
