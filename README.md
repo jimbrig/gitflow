@@ -1,5 +1,6 @@
 ## Git Flow
-### Tl;dr
+
+### Flow
 1. Branch from staging
 2. Rebase staging
 3. PR to staging
